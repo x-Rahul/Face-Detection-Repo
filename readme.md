@@ -1,3 +1,4 @@
 # Face Detection
 
-This programe detect your face face though your web cam.
+In this Project I created a python code to detect human face
+and also gives accuracy.
