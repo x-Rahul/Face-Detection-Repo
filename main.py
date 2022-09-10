@@ -4,8 +4,6 @@ import faceDetectModule as fd
 
 detector = fd.faceDetector()
 
- 
-path = 'D:\Programming\Python\Resources\Videos\group.mp4'
 cap = cv.VideoCapture(0)
 
 pTime = 0
